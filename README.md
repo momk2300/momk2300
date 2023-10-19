@@ -1,7 +1,18 @@
 ### Hej där 👋
 
-<!--
-**momk2300/momk2300** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Välkommen till min Github-profil
 
-Jag är student vid Mittuniversitetet och läser Internetutveckling, denna kurs är rolig och man lär sig något nytt varje dag,
-Kontakta mig via mejl momk2300@student.miun.se 
+   Hej! Jag är Mohamad Mkhalalati och jag älskar att koda och skapa spännande projekt.
+Jag är student vid Mittuniversitetet och läser Webbutveckling, denna kurs är rolig och man lär sig något nytt varje dag
+
+   ## Mitt arbete
+
+   Jag är intresserad av:
+
+   Webbutveckling
+
+   ## Kontakt
+
+   Du kan nå mig på momk2300@student.miun.se
+
+   Tack för att du besöker min profil!
